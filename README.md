@@ -41,8 +41,7 @@ The project analyzes stock behavior using:
 .
 ├── Stock_Clustering_PrachiGupta.ipynb
 ├── stock_clustering_outputs/
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
@@ -119,12 +118,6 @@ The notebook successfully:
 ---
 
 ## How to Run
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 ### Run Jupyter Notebook
 
